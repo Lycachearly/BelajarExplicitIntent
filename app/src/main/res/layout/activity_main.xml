@@ -11,8 +11,8 @@
         android:id="@+id/btn_pindah"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="PINDAH"
-        android:layout_centerInParent="true" />
+        android:layout_centerInParent="true"
+        android:text="PINDAH" />
 
     <EditText
         android:id="@+id/et_nama"
